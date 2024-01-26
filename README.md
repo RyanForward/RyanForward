@@ -5,25 +5,25 @@
 ##
 
 Work: Atualmente sou estagiário na empresa B2ML Sistemas, que atua na construção de softwares diversos para uma grande variedade de clientes. Na empresa, pratico habilidades como: \
-  📡 Tecnologias: NodeJS, React, Angular, Java, Python, dentre outras das linguagens mais utilizadas no mercado atualmente.
-  👥 Trabalho em equipe: utilização de versionamento para diferentes frentes de trabalho, atuação em reuniões de estimativa, alinhamento com cliente, entre outras responsabilidades com pessoas.
-  🗄️ Organização: uso de ferramentas como Docker para conteinerização, git para versionamento, github e gitlab para compartilhamento de repositórios, entre outras.
-  📚 Documentação: uso de Latex para documentação padronizada de projetos, Notion para organização de demandas, Swagger para APIs, entre outras.
-  📈 Efetividade: uso de metodologias ágeis como Scrum, Lean e Kanban. Além do foco na qualidade de software utilizando conceitos de User Experience
+  📡 Tecnologias: NodeJS, React, Angular, Java, Python, dentre outras das linguagens mais utilizadas no mercado atualmente. \
+  👥 Trabalho em equipe: utilização de versionamento para diferentes frentes de trabalho, atuação em reuniões de estimativa, alinhamento com cliente, entre outras responsabilidades com pessoas. \
+  🗄️ Organização: uso de ferramentas como Docker para conteinerização, git para versionamento, github e gitlab para compartilhamento de repositórios, entre outras. \
+  📚 Documentação: uso de Latex para documentação padronizada de projetos, Notion para organização de demandas, Swagger para APIs, entre outras. \
+  📈 Efetividade: uso de metodologias ágeis como Scrum, Lean e Kanban. Além do foco na qualidade de software utilizando conceitos de User Experience. \
 
-Study: Procuro sempre aprimorar minhas habilidades nas tecnologias e conceitos que julgo importantes. Atualmente, meus alvos de estudo são:
- 💻 Angular e React para front-end: com foco em Angular
- ⚙️ NodeJS para back-end, client-side e server-side
- 🫂 User Experience: visando melhorar a qualidade do software que produzo
- ⛓️ Segurança da Informação: visando melhorar a integridade das informações que armazeno em meus softwares, também se adequando à LGPD
- 🧪 Testes de Software: com o objetivo de melhorar o acesso dos softwares que produzo aos testes de qualidade
+Study: Procuro sempre aprimorar minhas habilidades nas tecnologias e conceitos que julgo importantes. Atualmente, meus alvos de estudo são: \
+ 💻 Angular e React para front-end: com foco em Angular. \
+ ⚙️ NodeJS para back-end, client-side e server-side. \
+ 🫂 User Experience: visando melhorar a qualidade do software que produzo. \
+ ⛓️ Segurança da Informação: visando melhorar a integridade das informações que armazeno em meus softwares, também se adequando à LGPD. \
+ 🧪 Testes de Software: com o objetivo de melhorar o acesso dos softwares que produzo aos testes de qualidade. \
 
-Hobbies: No meu tempo livre, tenho alguns hobbies que curto muito fazer:
-🎸 Tocar violão ou viola
-🎮 Jogar jogos competitivos ou single-player
-📕 Ler livros sobre ficção ou profissionalizantes
-📺 Assistir séries e filmes
-🔭 Aprender sobre astronomia e física
+Hobbies: No meu tempo livre, tenho alguns hobbies que curto muito fazer: \
+🎸 Tocar violão ou viola. \
+🎮 Jogar jogos competitivos ou single-player. \
+📕 Ler livros sobre ficção ou profissionalizantes. \
+📺 Assistir séries e filmes. \
+🔭 Aprender sobre astronomia e física. \
 
 ##
 
