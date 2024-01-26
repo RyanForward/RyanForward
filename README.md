@@ -3,7 +3,7 @@
 [![Ryan's GitHub stats](https://github-readme-stats.vercel.app/api?username=RyanForward&show_icons=true&theme=highcontrast)](https://github.com/anuraghazra/github-readme-stats)
 
 
-<h1>Trabalho</h1> \
+<h1>Trabalho</h1>
 
 Atualmente sou estagiário na empresa B2ML Sistemas, que atua na construção de softwares diversos para uma grande variedade de clientes. Na empresa, pratico habilidades como: \
 \
@@ -13,7 +13,7 @@ Atualmente sou estagiário na empresa B2ML Sistemas, que atua na construção de
   📚 Documentação: Latex para documentação padronizada, Notion para organização de demandas, Swagger para APIs. \
   📈 Efetividade: metodologias ágeis como Scrum, Lean e Kanban. Foco na qualidade de software com User Experience.
 
-<h1>Estudos</h1>  \
+<h1>Estudos</h1> 
 
 Procuro sempre aprimorar minhas habilidades nas tecnologias e conceitos que julgo importantes. Atualmente, meus alvos de estudo são: \
 \
@@ -23,7 +23,7 @@ Procuro sempre aprimorar minhas habilidades nas tecnologias e conceitos que julg
  ⛓️ Segurança da Informação: visando melhorar a integridade das informações que armazeno em meus softwares. \
  🧪 Testes de Software: com o objetivo de melhorar o acesso dos softwares que produzo aos testes de qualidade.
 
-<h1>Hobbies</h1> \
+<h1>Hobbies</h1>
 
 
 No meu tempo livre, tenho alguns hobbies que curto muito fazer: \
