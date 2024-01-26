@@ -1,7 +1,7 @@
 ## Olá! Meu nome é Ryan Silva, desenvolvedor de software e intusiasta de User Experience!
 
 <div style="display: inline_block"><br>
-  [![Ryan's GitHub stats](https://github-readme-stats.vercel.app/api?username=RyanForward)](https://github.com/anuraghazra/github-readme-stats)
+  ![Ryan's GitHub stats](https://github-readme-stats.vercel.app/api?username=RyanForward)](https://github.com/anuraghazra/github-readme-stats)
 </div>
   
  
