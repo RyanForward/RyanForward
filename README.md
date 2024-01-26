@@ -24,6 +24,8 @@ Procuro sempre aprimorar minhas habilidades nas tecnologias e conceitos que julg
  🧪 Testes de Software: com o objetivo de melhorar o acesso dos softwares que produzo aos testes de qualidade.
 
 <h1>Hobbies</h1> \
+
+
 No meu tempo livre, tenho alguns hobbies que curto muito fazer: \
 \
 🎸 Tocar violão ou viola. \
