@@ -4,7 +4,7 @@
 
 ##
 
-Work: Atualmente sou estagiário na empresa B2ML Sistemas, que atua na construção de softwares diversos para uma grande variedade de clientes. Na empresa, pratico habilidades como:
+Work: Atualmente sou estagiário na empresa B2ML Sistemas, que atua na construção de softwares diversos para uma grande variedade de clientes. Na empresa, pratico habilidades como: \**
   📡 Tecnologias: NodeJS, React, Angular, Java, Python, dentre outras das linguagens mais utilizadas no mercado atualmente.
   👥 Trabalho em equipe: utilização de versionamento para diferentes frentes de trabalho, atuação em reuniões de estimativa, alinhamento com cliente, entre outras responsabilidades com pessoas.
   🗄️ Organização: uso de ferramentas como Docker para conteinerização, git para versionamento, github e gitlab para compartilhamento de repositórios, entre outras.
