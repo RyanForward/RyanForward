@@ -11,7 +11,7 @@ Atualmente sou estagiário na empresa B2ML Sistemas, que atua na construção de
   👥 Trabalho em equipe: versionamento, atuação em reuniões de estimativa, alinhamento com clientes. \
   🗄️ Organização: Docker para conteinerização, git para versionamento, github e gitlab para compartilhamento de repositórios. \
   📚 Documentação: Latex para documentação padronizada, Notion para organização de demandas, Swagger para APIs. \
-  📈 Efetividade: metodologias ágeis como Scrum, Lean e Kanban. Foco na qualidade de software com User Experience.
+  📈 Efetividade: metodologias ágeis como Scrum, Lean e Kanban. Foco na qualidade de software utilizando aprendizado pessoal sobre User Experience.
 
 <h1>Estudos</h1> 
 
