@@ -17,9 +17,9 @@ Atualmente sou estagiário na empresa B2ML Sistemas, que atua na construção de
 
 Procuro sempre aprimorar minhas habilidades nas tecnologias e conceitos que julgo importantes. Atualmente, meus alvos de estudo são: \
 \
- 💻 Angular e React para front-end: com foco em Angular. \
+ 💻 Angular e React para front-end: com foco em React. \
  ⚙️ NodeJS para back-end, client-side e server-side. \
- 🫂 User Experience: visando melhorar a qualidade do software que produzo. \
+ 🫂 User Experience: visando melhorar a qualidade do software que é criado por mim. \
  ⛓️ Segurança da Informação: visando melhorar a integridade das informações que armazeno em meus softwares. \
  🧪 Testes de Software: com o objetivo de melhorar o acesso dos softwares que produzo aos testes de qualidade.
 
