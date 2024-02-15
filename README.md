@@ -26,7 +26,7 @@ Procuro sempre aprimorar minhas habilidades nas tecnologias e conceitos que julg
 <h1>Hobbies</h1>
 
 
-No meu tempo livre, tenho alguns hobbies que curto muito fazer: \
+No meu tempo livre também pratico alguns hobbies: \
 \
 🎸 Tocar violão ou viola. \
 🎮 Jogar jogos competitivos ou single-player. \
