@@ -31,8 +31,8 @@ No meu tempo livre também pratico alguns hobbies: \
 🎮 Jogar jogos competitivos ou single-player. \
 📕 Ler livros sobre ficção ou profissionalizantes. \
 📺 Assistir séries e filmes. \
-🔭 Aprender sobre astronomia e física.
-\
+🔭 Aprender sobre astronomia e física. \
+
  <div>
   <img align="center" alt="Ryan-JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Ryan-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
@@ -46,6 +46,7 @@ No meu tempo livre também pratico alguns hobbies: \
   <img align="center" alt="Ryan-C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
   <img align="center" alt="Ryan-Docker" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg">
  </div> 
+ 
 ##
  
 <div> 
