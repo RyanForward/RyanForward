@@ -1,4 +1,4 @@
-## Olá! Meu nome é Ryan Silva, desenvolvedor de software e intusiasta de User Experience!
+## Olá! Meu nome é Ryan Silva, "fazedor" de software!
 
 [![Ryan's GitHub stats](https://github-readme-stats.vercel.app/api?username=RyanForward&show_icons=true&theme=highcontrast)](https://github.com/anuraghazra/github-readme-stats)
 
