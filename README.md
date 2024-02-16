@@ -33,6 +33,8 @@ No meu tempo livre também pratico alguns hobbies: \
 📺 Assistir séries e filmes. \
 🔭 Aprender sobre astronomia e física.
 
+##
+
  <div>
   <img align="center" alt="Ryan-JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Ryan-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
