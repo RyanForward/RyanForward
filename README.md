@@ -27,9 +27,9 @@ Procuro sempre aprimorar minhas habilidades nas tecnologias e conceitos que julg
 
 No meu tempo livre também pratico alguns hobbies: \
 \
-🎸 Tocar violão ou viola. \
-🎮 Jogar jogos competitivos ou single-player. \
-📕 Ler livros sobre ficção ou profissionalizantes. \
+🎸 Tocar violão \
+🎮 Jogar \
+📕 Ler livros \
 📺 Assistir séries e filmes. \
 🔭 Aprender sobre astronomia e física. \
 
