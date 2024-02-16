@@ -31,7 +31,7 @@ No meu tempo livre também pratico alguns hobbies: \
 🎮 Jogar \
 📕 Ler livros \
 📺 Assistir séries e filmes. \
-🔭 Aprender sobre astronomia e física. \
+🔭 Aprender sobre astronomia e física.
 
  <div>
   <img align="center" alt="Ryan-JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
