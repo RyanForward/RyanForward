@@ -1,4 +1,4 @@
-## Olá! Meu nome é Ryan Silva, e sou "fazedor" de software!
+## Olá! Meu nome é Ryan Silva, e sou engenheiro de software!
 
 [![Ryan's GitHub stats](https://github-readme-stats.vercel.app/api?username=RyanForward&show_icons=true&theme=highcontrast)](https://github.com/anuraghazra/github-readme-stats)
 
