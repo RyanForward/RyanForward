@@ -1,6 +1,6 @@
 ## Olá! Meu nome é Ryan Silva, e sou engenheiro de software!
 
-[![Ryan's GitHub stats](https://github-readme-stats.vercel.app/api?username=RyanForard&show_icons=true&theme=highcontrast)](https://github.com/anuraghazra/github-readme-stats)
+[![Ryan's GitHub stats](https://github-readme-stats.vercel.app/api?username=RyanForward&show_icons=true&theme=highcontrast)](https://github.com/anuraghazra/github-readme-stats)
 
 <h2>Trabalho</h2>
 
