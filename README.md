@@ -23,6 +23,13 @@ Procuro sempre aprimorar minhas habilidades nas tecnologias e conceitos que julg
  ⛓️ Segurança da Informação: visando melhorar a integridade das informações que armazeno em meus softwares. \
  🧪 Testes de Software: com o objetivo de melhorar o acesso dos softwares que produzo aos testes de qualidade.
 
+ <h1>Destaques</h1> 
+
+🚁 Em 2021 fui integrante da área do software na Black Bee Drones, uma equipe de competição que cria drones autônomos. Juntos conquistamos o décimo lugar na SARC-Barinet 2021
+📠 Em 2021, criei um software que realizada cotações de tempo automáticas para ajustes no desenho técnico de carros na linha da produção da Aptiv, uma montadora de chicotes automotivos multinacional
+🧏‍♀️ Em 2022 fiz parte de um projeto de LIBRAS onde o objetivo era criar um banco de sinais para ser utilizado como base de estudos na Unifei
+🌱 Em 2023, eu e outras 3 pessoas criamos um software que ajustava automaticamente a condição de estufas inteligentes, autonomizando o processo de ajuste de temperatura, umidade e luminosidade 
+
 <h1>Hobbies</h1>
 
 No meu tempo livre também pratico alguns hobbies: \
