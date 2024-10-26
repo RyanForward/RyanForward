@@ -1,62 +1,54 @@
-## Hello! My name is Ryan Silva, and I am a software engineer!
+## Olá! Meu nome é Ryan Silva, e sou engenheiro de software!
 
-[![Ryan's GitHub stats](https://github-readme-stats.vercel.app/api?username=RyanForward&show_icons=true&theme=highcontrast)](https://github.com/anuraghazra/github-readme-stats)
+[![Ryan's GitHub stats](https://github-readme-stats.vercel.app/api?username=RyanForard&show_icons=true&theme=highcontrast)](https://github.com/anuraghazra/github-readme-stats)
 
-### Work
+<h2>Trabalho</h2>
 
-I am currently an intern at B2ML Sistemas, a tech company that develops various software solutions for a wide range of clients. In my role, I practice skills such as:
-- **Technologies:** 
-  - <img align="center" alt="Ryan-JS" height="20" width="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"> NodeJS
-  - <img align="center" alt="Ryan-React" height="20" width="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"> React
-  - <img align="center" alt="Ryan-Angular" height="20" width="20" src="https://angular.io/assets/images/logos/angular/angular.svg"> Angular
-  - <img align="center" alt="Ryan-Java" height="20" width="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"> Java
-  - <img align="center" alt="Ryan-Python" height="20" width="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"> Python
-  - Other popular programming languages.
-- **Teamwork:** Version control, participating in estimation meetings, and client alignment.
-- **Organization:** Using 
-  - <img align="center" alt="Ryan-Docker" height="20" width="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg"> Docker for containerization,
-  - <img align="center" alt="Ryan-Git" height="20" width="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"> Git for version control,
-  - <img align="center" alt="Ryan-GitHub" height="20" width="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"> GitHub and 
-  - <img align="center" alt="Ryan-Gitlab" height="20" width="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/gitlab/gitlab-original.svg"> GitLab for repository sharing.
-- **Documentation:** Utilizing 
-  - <img align="center" alt="Ryan-LaTeX" height="20" width="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/latex/latex-original.svg"> LaTeX for standardized documentation, 
-  - Notion for task organization, and 
-  - Swagger for APIs.
-- **Effectiveness:** Implementing agile methodologies like Scrum, Lean, and Kanban, with a focus on software quality and User Experience.
+Atualmente sou estagiário na tech company B2ML Sistemas, que atua na construção de softwares diversos para uma grande variedade de clientes. Na empresa, pratico habilidades como: \
+\
+  📡 Tecnologias: NodeJS, React, Angular, Java, Python, dentre outras das linguagens mais utilizadas no mercado atualmente. \
+  👥 Trabalho em equipe: versionamento, atuação em reuniões de estimativa, alinhamento com clientes. \
+  🗄️ Organização: Docker para conteinerização, git para versionamento, github e gitlab para compartilhamento de repositórios. \
+  📚 Documentação: Latex para documentação padronizada, Notion para organização de demandas, Swagger para APIs. \
+  📈 Efetividade: metodologias ágeis como Scrum, Lean e Kanban. Foco na qualidade de software utilizando aprendizado pessoal sobre User Experience.
 
-### Studies
 
-I continuously seek to improve my skills in important technologies and concepts. My current areas of study include:
-- **Angular and React for front-end:** With a focus on React.
-- **NodeJS for back-end, client-side, and server-side development.**
-- **User Experience:** Aiming to enhance the quality of the software I create.
-- **Information Security:** To improve the integrity of the data stored in my applications.
-- **Software Testing:** To enhance the quality testing accessibility of the software I produce.
+<h1>Estudos</h1> 
 
-### Highlights
+Procuro sempre aprimorar minhas habilidades nas tecnologias e conceitos que julgo importantes. Atualmente, meus alvos de estudo são: \
+\
+ 💻 Angular e React para front-end: com foco em React. \
+ ⚙️ NodeJS para back-end, client-side e server-side. \
+ 🫂 User Experience: visando melhorar a qualidade do software que é criado por mim. \
+ ⛓️ Segurança da Informação: visando melhorar a integridade das informações que armazeno em meus softwares. \
+ 🧪 Testes de Software: com o objetivo de melhorar o acesso dos softwares que produzo aos testes de qualidade.
 
-- 🚁 **2021:** Achieved 10th place in SARC-Barinet 2021 as a member of the Black Bee Drones software team.
-- 📠 **2021:** Developed a script to automatically quote modifications of vehicle wiring harnesses produced by Aptiv.
-- 🧏‍♀️ **2022:** Developed a LIBRAS database for educational purposes at Unifei.
-- 🌱 **2023:** Contributed to creating software that automatically adjusts the conditions of smart greenhouses (temperature, humidity, and light) for a Networks II project.
+ <h1>Destaques</h1> 
 
-### Hobbies
+🚁 2021: décimo lugar na SARC-Barinet 2021 atuando como integrante do software da Black Bee Drones\
+📠 2021: criação de script que cotava automaticamente modificações de tempo em chicotes de veículos produzidos pela Aptiv \
+🧏‍♀️ 2022: desenvolvedor em um banco de LIBRAS para ser utilizado como base de estudos na Unifei \
+🌱 2023: participação na criação de um software que ajusta automaticamente a condição de estufas inteligentes, como ajuste de temperatura, umidade e luminosidade (trabalho de Redes II)
 
-In my free time, I enjoy:
-- 🎸 Playing guitar
-- 🎮 Gaming
-- 📕 Reading books
-- 📺 Watching series and movies
-- 🔭 Learning about astronomy and physics.
+<h1>Hobbies</h1>
 
-## Skills
+No meu tempo livre também pratico alguns hobbies: \
+\
+🎸 Tocar violão \
+🎮 Jogar \
+📕 Ler livros \
+📺 Assistir séries e filmes. \
+🔭 Aprender sobre astronomia e física.
 
-<div>
+##
+
+ <div>
   <img align="center" alt="Ryan-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img align="center" alt="Ryan-JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Ryan-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Ryan-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Ryan-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+<!--   <img align="center" alt="Ryan-Angular" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg"> -->
   <img align="center" alt="Ryan-Node" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
   <img align="center" alt="Ryan-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Ryan-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
@@ -71,12 +63,14 @@ In my free time, I enjoy:
   <img align="center" alt="Ryan-Linux" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" />
   <img align="center" alt="Ryan-Gitlab" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/gitlab/gitlab-original.svg" />
   <img align="center" alt="Ryan-Swagger" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/swagger/swagger-original.svg" />
-</div>
+<!--   <img align="center" alt="Ryan-Arduino" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/arduino/arduino-original-wordmark.svg" />      -->
+             
+ </div> 
 
-## Contact
+##
 
-<div>
-  <a href="mailto:ryanchuello@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/ryribeirosilva/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-  <a href="https://instagram.com/ry___silva/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+<div> 
+  <a href = "mailto:ryanchuello@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/ryribeirosilva/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
+   <a href="https://instagram.com/ry___silva/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 </div>
