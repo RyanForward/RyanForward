@@ -1,45 +1,38 @@
 ## Olá! Meu nome é Ryan Silva, e sou engenheiro de software!
 
 [![Ryan's GitHub stats](https://github-readme-stats.vercel.app/api?username=RyanForward&show_icons=true&theme=highcontrast)](https://github.com/anuraghazra/github-readme-stats)
+Work
+I am currently an intern at B2ML Sistemas, a tech company that develops various software solutions for a wide range of clients. Here, I practice skills such as:
 
-<h2>Trabalho</h2>
+📡 Technologies: NodeJS, React, Angular, Java, Python, among other widely used programming languages.
+👥 Teamwork: Version control, participating in estimation meetings, aligning with clients.
+🗄️ Organization: Using Docker for containerization, Git for version control, GitHub and GitLab for repository sharing.
+📚 Documentation: LaTeX for standardized documentation, Notion for task organization, Swagger for APIs.
+📈 Effectiveness: Agile methodologies like Scrum, Lean, and Kanban, focusing on software quality and personal learning in User Experience.
 
-Atualmente sou estagiário na tech company B2ML Sistemas, que atua na construção de softwares diversos para uma grande variedade de clientes. Na empresa, pratico habilidades como: \
-\
-  📡 Tecnologias: NodeJS, React, Angular, Java, Python, dentre outras das linguagens mais utilizadas no mercado atualmente. \
-  👥 Trabalho em equipe: versionamento, atuação em reuniões de estimativa, alinhamento com clientes. \
-  🗄️ Organização: Docker para conteinerização, git para versionamento, github e gitlab para compartilhamento de repositórios. \
-  📚 Documentação: Latex para documentação padronizada, Notion para organização de demandas, Swagger para APIs. \
-  📈 Efetividade: metodologias ágeis como Scrum, Lean e Kanban. Foco na qualidade de software utilizando aprendizado pessoal sobre User Experience.
+Studies
+I continuously strive to improve my skills in important technologies and concepts. Currently, my study targets include:
 
+💻 Angular and React for front-end development, focusing on React.
+⚙️ NodeJS for both client-side and server-side development.
+🫂 User Experience to enhance the quality of the software I create.
+⛓️ Information Security to improve the integrity of data stored in my software.
+🧪 Software Testing to enhance the accessibility of my software to quality tests.
 
-<h1>Estudos</h1> 
+Highlights
+🚁 2021: 10th place at SARC-Barinet 2021 as a member of the Black Bee Drones software team.
+📠 2021: Created a script that automatically quotes time modifications in vehicle wiring produced by Aptiv.
+🧏‍♀️ 2022: Developer of a LIBRAS database for educational use at Unifei.
+🌱 2023: Participated in creating software that automatically adjusts the conditions of smart greenhouses (temperature, humidity, and light adjustments).
 
-Procuro sempre aprimorar minhas habilidades nas tecnologias e conceitos que julgo importantes. Atualmente, meus alvos de estudo são: \
-\
- 💻 Angular e React para front-end: com foco em React. \
- ⚙️ NodeJS para back-end, client-side e server-side. \
- 🫂 User Experience: visando melhorar a qualidade do software que é criado por mim. \
- ⛓️ Segurança da Informação: visando melhorar a integridade das informações que armazeno em meus softwares. \
- 🧪 Testes de Software: com o objetivo de melhorar o acesso dos softwares que produzo aos testes de qualidade.
+Hobbies
+In my free time, I enjoy:
 
- <h1>Destaques</h1> 
-
-🚁 2021: décimo lugar na SARC-Barinet 2021 atuando como integrante do software da Black Bee Drones\
-📠 2021: criação de script que cotava automaticamente modificações de tempo em chicotes de veículos produzidos pela Aptiv \
-🧏‍♀️ 2022: desenvolvedor em um banco de LIBRAS para ser utilizado como base de estudos na Unifei \
-🌱 2023: participação na criação de um software que ajusta automaticamente a condição de estufas inteligentes, como ajuste de temperatura, umidade e luminosidade (trabalho de Redes II)
-
-<h1>Hobbies</h1>
-
-No meu tempo livre também pratico alguns hobbies: \
-\
-🎸 Tocar violão \
-🎮 Jogar \
-📕 Ler livros \
-📺 Assistir séries e filmes. \
-🔭 Aprender sobre astronomia e física.
-
+🎸 Playing guitar
+🎮 Gaming
+📕 Reading books
+📺 Watching series and movies
+🔭 Learning about astronomy and physics.
 ##
 
  <div>
