@@ -29,16 +29,6 @@ I always seek to enhance my skills in the technologies and concepts I consider i
 🧏‍♀️ 2022: developer in a LIBRAS bank to be used as a study base at Unifei \
 🌱 2023: participation in the creation of software that automatically adjusts the condition of smart greenhouses, such as adjusting temperature, humidity, and brightness (Networks II project)
 
-<h1>Hobbies</h1>
-
-In my free time, I also practice some hobbies: \
-\
-🎸 Playing guitar \
-🎮 Gaming \
-📕 Reading books \
-📺 Watching series and movies. \
-🔭 Learning about astronomy and physics.
-
 ##
 
 <div>
