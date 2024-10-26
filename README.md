@@ -1,6 +1,6 @@
 ## Olá! Meu nome é Ryan Silva, e sou engenheiro de software!
 
-[![Ryan's GitHub stats](https://github-readme-stats.vercel.app/api?username=RyanForard&show_icons=true&theme=highcontrast)](https://github.com/anuraghazra/github-readme-stats)
+[![Ryan's GitHub stats](https://github-readme-stats.vercel.app/api?username=RyanForward&show_icons=true&theme=highcontrast)](https://github.com/anuraghazra/github-readme-stats)
 
 <h2>Trabalho</h2>
 
@@ -64,7 +64,11 @@ No meu tempo livre também pratico alguns hobbies: \
   <img align="center" alt="Ryan-Gitlab" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/gitlab/gitlab-original.svg" />
   <img align="center" alt="Ryan-Swagger" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/swagger/swagger-original.svg" />
 <!--   <img align="center" alt="Ryan-Arduino" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/arduino/arduino-original-wordmark.svg" />      -->
-             
+          
+          
+          
+          
+                 
  </div> 
 
 ##
