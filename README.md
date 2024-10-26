@@ -5,10 +5,23 @@
 ### Work
 
 I am currently an intern at B2ML Sistemas, a tech company that develops various software solutions for a wide range of clients. In my role, I practice skills such as:
-- **Technologies:** NodeJS, React, Angular, Java, Python, and other popular programming languages.
+- **Technologies:** 
+  - <img align="center" alt="Ryan-JS" height="20" width="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"> NodeJS
+  - <img align="center" alt="Ryan-React" height="20" width="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"> React
+  - <img align="center" alt="Ryan-Angular" height="20" width="20" src="https://angular.io/assets/images/logos/angular/angular.svg"> Angular
+  - <img align="center" alt="Ryan-Java" height="20" width="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"> Java
+  - <img align="center" alt="Ryan-Python" height="20" width="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"> Python
+  - Other popular programming languages.
 - **Teamwork:** Version control, participating in estimation meetings, and client alignment.
-- **Organization:** Using Docker for containerization, Git for version control, and GitHub and GitLab for repository sharing.
-- **Documentation:** Utilizing LaTeX for standardized documentation, Notion for task organization, and Swagger for APIs.
+- **Organization:** Using 
+  - <img align="center" alt="Ryan-Docker" height="20" width="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg"> Docker for containerization,
+  - <img align="center" alt="Ryan-Git" height="20" width="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"> Git for version control,
+  - <img align="center" alt="Ryan-GitHub" height="20" width="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"> GitHub and 
+  - <img align="center" alt="Ryan-Gitlab" height="20" width="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/gitlab/gitlab-original.svg"> GitLab for repository sharing.
+- **Documentation:** Utilizing 
+  - <img align="center" alt="Ryan-LaTeX" height="20" width="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/latex/latex-original.svg"> LaTeX for standardized documentation, 
+  - Notion for task organization, and 
+  - Swagger for APIs.
 - **Effectiveness:** Implementing agile methodologies like Scrum, Lean, and Kanban, with a focus on software quality and User Experience.
 
 ### Studies
