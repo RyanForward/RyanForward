@@ -1,7 +1,5 @@
 ## Hello! My name is Ryan Silva, and I am a software engineer!
 
-[![Ryan's GitHub stats](https://github-readme-stats.vercel.app/api?username=RyanForward&show_icons=true&theme=highcontrast)](https://github.com/anuraghazra/github-readme-stats)
-
 <h2>Work</h2>
 
 I am currently an intern at the tech company B2ML Sistemas, which builds various software for a wide range of clients. At the company, I practice skills such as: \
