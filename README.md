@@ -7,7 +7,7 @@ I am currently an intern at the tech company B2ML Sistemas, which builds various
   📡 Technologies: NodeJS, React, PHP, Python, among other commonly used languages in the market today. \
   👥 Teamwork: versioning, participating in estimation meetings, aligning with clients. \
   🗄️ Organization: Docker for containerization, Git for versioning, GitHub and GitLab for repository sharing. \
-  🌐 Infrastructure: managing servers, licenses as https, performance of docker containers, providing availability and integrity \
+  🌐 Infrastructure: managing servers, licenses as https, performance of docker containers, providing availability and integrity. \
   📚 Documentation: LaTeX for standardized documentation, Notion for organizing demands, Swagger for APIs. \
   📈 Effectiveness: agile methodologies such as Scrum, Lean, and Kanban. Focus on software quality using personal learning about User Experience.
 
